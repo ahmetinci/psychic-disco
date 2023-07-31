@@ -1,0 +1,2 @@
+# psychic-disco
+Mavi tik
