@@ -1,2 +1,2 @@
-# psychic-disco
+# tik.jison
 Mavi tik
