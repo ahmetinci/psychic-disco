@@ -1,2 +1,1 @@
-# tik.jison
-Mavi tik
+["ahmet_inci19"]
